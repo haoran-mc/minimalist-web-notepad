@@ -1,0 +1,5 @@
+
+
+- ☐ random path
+- ☐ store data in files
+- ☐ deploy with docker
